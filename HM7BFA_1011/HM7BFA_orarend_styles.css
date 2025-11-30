@@ -1,0 +1,43 @@
+table {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    background-color: #95f59d;
+    border-collapse: collapse;
+    border: 1px solid rgb(13, 82, 10);
+    font-family: 'Arial';
+    text-align: center;
+    box-shadow: 4px 4px 8px rgba(5, 73, 17);
+}
+table caption {
+    caption-side: top;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+th, td {
+  border: 1px solid grey;
+  padding: 6px;
+}
+th:first-child,
+td:first-child {
+  border-right: 3px solid rgb(5, 73, 17);
+}
+tr:first-child th:first-child,
+tr:first-child td:first-child {
+  border-right: 1px solid grey;
+}
+tr:first-child th:not(:first-child),
+tr:first-child td:not(:first-child) {
+  border-bottom: 3px solid rgb(5, 73, 17);
+}
+.webprog { background-color: #fff9b1; }
+.matek { background-color: #a2c7dd; }
+.progalap { background-color: #f1acb8; }
+.logika { background-color: #cf8ee2; }
+.info { background-color: #f1c670; }
+.arch { background-color: #57f5f5; }
+.tex { background-color: #e96eb1; }
+.kutatas { background-color: #32f718; }
+.empty { background-color: #f2f2f2; }
