@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Webprogramozás alapjai</title>
+<style>
+     body {
+            margin: 0;
+            background-image: linear-gradient(to bottom, #2a16dd, #5c62c0, #94baec, #b4c8f5);
+            font-family: Arial, sans-serif;
+            color: rgb(37, 13, 92);
+        }
+        header {
+            width: auto;
+            text-align: center;
+            height: 250px;               
+            overflow: hidden;            
+        }
+        header img {
+            height: 150%;                 
+            width: auto;                
+            display: block;
+            margin: 0 auto;
+        }
+        .container {
+            display: flex;
+            align-items: flex-start;
+            margin-top: 10px;
+        }
+        .menu {
+            width: 250px;
+            padding: 30px;
+        }
+        .menu a {
+            display: block;
+            padding: 10px 50px;
+            margin-bottom: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            color: rgb(37, 13, 92);
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 5px;
+        }
+        .menu a:hover {
+            background-color: rgba(255, 255, 255, 0.95);
+        }
+        .main-content {
+            flex: 21;
+            padding: 50px;
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            text-align: center;
+            padding: 10px 0;
+            font-size: 12px;
+            
+        }
+    </style>
+
+</head>
+<body>
+    
+    <div class="content">
+    <header>
+        <a href="kezdolap1.html">
+            <img src="Képek/the.png" alt="the">
+        </a>
+    </header>
+
+    <div class="container">
+
+        <nav class="menu">
+            <a href="kezdolap1.html">Kezdőlap</a>
+            <a href="adatbazis1.html">Adatbázisrendszerek</a>
+            <a href="webprog1.html">Webprogramozás alapjai</a>
+            <a href="webxml1.html">Webes adatkezelő környezetek</a>
+        </nav>
+        
+        <section>
+            <div style="display:inline-flex; flex-direction: column; width: 49%; vertical-align: top; margin-top: 20px;">
+                <h3>Webprogramozás alapjai</h3>
+                <div>Oktató: Dr. Bednarik László</div>
+                <div>Kredit: 3</div>
+                <p><b>Tematika</b></p>
+                <ul>
+                    <li>Tematika ismertetése. Verziókövető rendszerek. GitHub fiók létrehozása 
+                        Webes alkalmazások elemei, felépítése Apache2, MySQL, Node.js konfigurálása. 
+                        HTML5 elemei, CSS3. Szövegformázás, háttérkép beillesztése. Lista, linkek készítése.</li>
+                    <li>Képek beillesztése és formázása. Táblázatok készítése. Űrlap készítése. Mini weblap készítése. 
+                        JavaScript alapok I. JavaScript alapok II.</li>
+                    <li> Audio, video, grafika beillesztése. JSON. AJAX technológiák. jQuery.  
+                        ZH dolgozat, Féléves feladat bemutatása/megvédése. Értékelés.</li>
+                </ul>
+            </div>
+            <div style="display:inline-flex; width: 49%;">
+                <img src="Képek/web.jpg" alt="html" style="width:95%; margin-top: 50px;">
+            </div>
+
+    <footer>Péter Anita Tímea, HM7BFA, 2025</footer>
+         
+    <div style="text-align: right;font-size: 12px;"><b>Forrás:</b>W3 Schools, THE tantárgyi leírások</div>
+</body>
+</html>
