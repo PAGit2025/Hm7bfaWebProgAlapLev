@@ -1,0 +1,172 @@
+{
+"órarend": [
+{
+"nap": "Szeptember 20.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Programozás alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Informatika logikai alapjai"},
+]
+},
+{
+"nap": "Szeptember 27.",
+"órák": [
+{"idő": "9:00-12:55", "tantárgy": "Diszkrét matematika"},
+{"idő": "13:30-17:30", "tantárgy": "Webprogramozás alapjai"},
+]
+},
+{
+"nap": "Október 10.",
+"órák": [
+{"idő": "13:30-17:30", "tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "Október 11.",
+"órák": [
+{"idő": "9:00-12:55", "tantárgy": "Webprogramozás alapjai"},
+{"idő": "13:30-17:30", "tantárgy": "Bevezetés az informatikába"},
+]
+},
+{
+"nap": "Október 18.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+]
+},
+{
+"nap": "Október 25.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Bevezetés az informatikába"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 07.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Számítógép architektúrák"},
+]
+},
+{
+"nap": "November 08.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Programozás alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Kutatásmódszertan"},
+]
+},
+{
+"nap": "November 14.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "November 15.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 14.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "November 15.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 14.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "November 15.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 14.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "November 15.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 14.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "November 15.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 14.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "November 15.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Informatika logikai alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Programozás alapjai"},
+]
+},
+{
+"nap": "November 21.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Számítógép architektúrák"},
+]
+},
+{
+"nap": "November 22.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Webprogramozás alapjai"},
+{"idő": "13:30-17:30","tantárgy": "Bevezetés az informatikába"},
+]
+},
+{
+"nap": "November 28.",
+"órák": [
+{"idő": "9:00-15:25","tantárgy": "Bevezetés a TEX-be"},
+]
+},
+{
+"nap": "December 05.",
+"órák": [
+{"idő": "13:30-17:30","tantárgy": "Diszkrét matematika"},
+]
+},
+{
+"nap": "December 12.",
+"órák": [
+{"idő": "9:00-12:55","tantárgy": "Kutatásmódszertan"},
+{"idő": "13:30-17:30","tantárgy": "Webprogramozás alapjai"},
+]
+},
+{
+"nap": "December 13.",
+"órák": [
+{"idő": "10:00-11:15","tantárgy": "Bevezetés a TEX-be"},
+{"idő": "13:30-17:30","tantárgy": "Bevezetés az informatikába"},
+]
+},
